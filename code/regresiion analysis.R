@@ -1,5 +1,5 @@
 ---
-title: "Individual Project"
+title: "logistic regression"
 output: html_document
 date: "2025-05-10"
 
